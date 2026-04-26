@@ -2,7 +2,9 @@
 
 ## Sobre o projeto
 
-Dashboard de vendas desenvolvido no Power BI com foco em organização visual, interatividade e melhor leitura dos dados.
+Este projeto consiste na reformulação de um relatório financeiro desenvolvido no Power BI, com foco na melhoria da **experiência do usuário (UX)** e na organização visual das informações.
+
+O objetivo foi transformar um relatório básico em um dashboard mais intuitivo, interativo e visualmente agradável.
 
 ---
 
